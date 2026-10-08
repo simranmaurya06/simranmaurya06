@@ -1,31 +1,90 @@
 <h1 align="center">Hi 👋, I'm Simran Mourya</h1>
-<h3 align="center">A Business Analytics Enthusiast focused on transforming data into actionable business insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simranmaurya06&label=Profile%20views&color=0e75b6&style=flat" alt="simranmaurya06" /> </p>
+<h3 align="center">
+Turning business data into actionable insights through analytics, KPI measurement, and process optimization.
+</h3>
 
-- 🌱 I’m currently learning **Turning complex business challenges into measurable outcomes through analytics, process optimization, and insight-driven decision making.**
+---
 
-- 👯 I’m looking to collaborate on **Business Analytics and Data Visualization Projects**
+## 👩‍💼 About Me
 
-- 🤝 I’m looking for help with **Stakeholder Management and Industry Analytics Use Cases**
+- 🎓 B.Tech in Electronics & Communication Engineering
+- 📊 Aspiring Business Analyst with hands-on experience in Power BI, SQL, Excel, and Data Visualization
+- 📈 Focused on solving business challenges through analytics, process improvement, and performance measurement
+- 🏆 Awarded Best Presenter at ICMDISR and later presented my research work at an IEEE Conference
+- 🎯 Actively seeking opportunities in Business Analysis and Business Analytics
 
-- 👨‍💻 All of my projects are available at [https://github.com/simranmaurya06](https://github.com/simranmaurya06)
+---
 
-- 💬 Ask me about **Business Analysis, Analytics Case Studies, Process Improvement, KPI Strategy, Dashboard Development, and Data-Driven Decision Making.**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **simranmaurya212004@gmail.com**
+### ✈️ Airport Resilience & Flight Delay Analysis
+- Analyzed 121M+ flight records to identify delay drivers, cancellation patterns, and airport resilience metrics.
+- Developed interactive dashboards to uncover operational bottlenecks and support data-driven decision making.
 
-- ⚡ Fun fact **Received the Best Presenter Award at ICMDISR - 2024 and presented my research work at an IEEE Conference(2026)**
+### 🚚 Supply Chain Delivery Performance Dashboard
+- Analyzed 180K+ supply chain orders and evaluated delivery performance across markets, shipping modes, and product categories.
+- Identified 103K+ late deliveries and uncovered operational risks through KPI-driven analysis.
 
-<h3 align="left">Connect with me:</h3>
+### 📉 Customer Churn Analysis & Retention Strategy
+- Analyzed customer behavior and churn patterns to identify high-risk customer segments.
+- Developed actionable retention recommendations using data-driven insights.
+
+### 🛒 E-Commerce Sales Performance Analysis
+- Evaluated sales, profit, customer, and regional performance to uncover growth opportunities.
+- Built interactive dashboards to support business decision-making and profitability analysis.
+
+---
+
+## 🤝 Looking to Collaborate On
+
+Business Analytics, Dashboard Development, Data Visualization, and Process Improvement Projects.
+
+---
+
+## 💬 Ask Me About
+
+Business Analysis, Analytics Case Studies, KPI Strategy, Dashboard Development, Process Optimization, and Data-Driven Decision Making.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/simran-mourya-24182225b
+- GitHub: github.com/simranmaurya06
+- Email: simranmaurya212004@gmail.com
+
+---
+
+## 🛠️ Tools & Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/simran-mourya-24182225b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simran-mourya-24182225b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/simranmourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/simranmourya" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Analytics & BI:** Power BI, Excel, DAX, Data Visualization, KPI Reporting
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simranmaurya06&show_icons=true&locale=en&layout=compact" alt="simranmaurya06" /></p>
+**Databases:** SQL, MySQL, PostgreSQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simranmaurya06&show_icons=true&locale=en" alt="simranmaurya06" /></p>
+**Business Analysis:** Requirements Analysis, Process Mapping, Stakeholder Communication, Process Improvement
+
+**Tools:** GitHub, Jira, Draw.io, Power Query
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=simranmaurya06&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simranmaurya06&show_icons=true&locale=en&layout=compact" />
+</p>
+
+---
+
+> "Data becomes valuable only when it drives better business decisions."
