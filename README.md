@@ -1,90 +1,151 @@
 <h1 align="center">Hi 👋, I'm Simran Mourya</h1>
 
 <h3 align="center">
-Turning business data into actionable insights through analytics, KPI measurement, and process optimization.
+Business Analyst | Power BI | SQL | Data-Driven Decision Making
 </h3>
+
+<p align="center">
+Transforming complex business data into actionable insights through analytics, KPI measurement, and process optimization.
+</p>
 
 ---
 
 ## 👩‍💼 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 📊 Aspiring Business Analyst with hands-on experience in Power BI, SQL, Excel, and Data Visualization
-- 📈 Focused on solving business challenges through analytics, process improvement, and performance measurement
-- 🏆 Awarded Best Presenter at ICMDISR and later presented my research work at an IEEE Conference
-- 🎯 Actively seeking opportunities in Business Analysis and Business Analytics
+🎓 B.Tech in Electronics & Communication Engineering
+
+📊 Aspiring Business Analyst with hands-on experience in Business Analytics, Data Visualization, KPI Reporting, and Process Analysis
+
+📈 Passionate about solving business challenges using analytics, structured thinking, and data-driven decision making
+
+🏆 Awarded Best Presenter at ICMDISR 2024 and presented research work at an IEEE Conference 2026
+
+🎯 Currently seeking opportunities in Business Analysis and Business Analytics
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Analytics Portfolio
+
+<table>
+<tr>
+<td width="50%">
 
 ### ✈️ Airport Resilience & Flight Delay Analysis
-- Analyzed 121M+ flight records to identify delay drivers, cancellation patterns, and airport resilience metrics.
-- Developed interactive dashboards to uncover operational bottlenecks and support data-driven decision making.
 
-### 🚚 Supply Chain Delivery Performance Dashboard
-- Analyzed 180K+ supply chain orders and evaluated delivery performance across markets, shipping modes, and product categories.
-- Identified 103K+ late deliveries and uncovered operational risks through KPI-driven analysis.
+- Analyzed **121M+ flight records**
+- Identified delay drivers and operational bottlenecks
+- Evaluated airport resilience and performance trends
 
-### 📉 Customer Churn Analysis & Retention Strategy
-- Analyzed customer behavior and churn patterns to identify high-risk customer segments.
-- Developed actionable retention recommendations using data-driven insights.
+</td>
 
-### 🛒 E-Commerce Sales Performance Analysis
-- Evaluated sales, profit, customer, and regional performance to uncover growth opportunities.
-- Built interactive dashboards to support business decision-making and profitability analysis.
+<td width="50%">
 
----
+### 🚚 Supply Chain Delivery Performance
 
-## 🤝 Looking to Collaborate On
+- Analyzed **180K+ supply chain orders**
+- Investigated **103K+ late deliveries**
+- Evaluated shipping performance and delivery risks
 
-Business Analytics, Dashboard Development, Data Visualization, and Process Improvement Projects.
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 💬 Ask Me About
+### 📉 Customer Churn Analysis
 
-Business Analysis, Analytics Case Studies, KPI Strategy, Dashboard Development, Process Optimization, and Data-Driven Decision Making.
+- Identified high-risk customer segments
+- Analyzed churn drivers and customer behavior
+- Recommended retention-focused strategies
 
----
+</td>
 
-## 📫 Connect With Me
+<td width="50%">
 
-- LinkedIn: www.linkedin.com/in/simran-mourya-24182225b
-- GitHub: github.com/simranmaurya06
-- Email: simranmaurya212004@gmail.com
+### 🛒 E-Commerce Sales Analysis
 
----
+- Evaluated sales and profitability trends
+- Identified top-performing regions and categories
+- Generated actionable business insights
 
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/>
-</p>
-
-**Analytics & BI:** Power BI, Excel, DAX, Data Visualization, KPI Reporting
-
-**Databases:** SQL, MySQL, PostgreSQL
-
-**Business Analysis:** Requirements Analysis, Process Mapping, Stakeholder Communication, Process Improvement
-
-**Tools:** GitHub, Jira, Draw.io, Power Query
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Core Competencies
+
+### Business Analysis
+
+- Requirements Analysis
+- Process Mapping
+- Stakeholder Communication
+- Business Process Improvement
+- Root Cause Analysis
+
+### Analytics & Reporting
+
+- Power BI
+- DAX
+- Excel
+- SQL
+- KPI Development
+- Dashboard Design
+
+### Databases
+
+- MySQL
+- PostgreSQL
+
+---
+
+# 📚 Areas of Interest
+
+- Business Analysis
+- Business Analytics
+- Operations Analytics
+- Supply Chain Analytics
+- Customer Analytics
+- Process Optimization
+- Data Storytelling
+- Performance Measurement
+
+---
+
+# 🏅 Achievements
+
+🏆 Best Presenter Award – ICMDISR
+
+📄 Research Paper Presenter – IEEE Conference
+
+🥈 Silver Medal – 400m Athletics Event
+
+🥉 Bronze Medal – 200m Athletics Event
+
+---
+
+# 💬 Ask Me About
+
+- Business Analysis
+- Analytics Case Studies
+- KPI Strategy
+- Dashboard Development
+- Process Optimization
+- Data-Driven Decision Making
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: **simranmaurya212004@gmail.com**
+
+💼 LinkedIn: **www.linkedin.com/in/simran-mourya-24182225b**
+
+🐙 GitHub: **github.com/simranmaurya06**
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=simranmaurya06&show_icons=true&theme=default" />
+<i>"Data becomes valuable only when it drives better business decisions."</i>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=simranmaurya06&show_icons=true&locale=en&layout=compact" />
-</p>
-
----
-
-> "Data becomes valuable only when it drives better business decisions."
